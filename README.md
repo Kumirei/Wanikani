@@ -1,2 +1,2 @@
-# Wanikani Scripts
-Wanikani Scripts
+# MOVED TO REPOSITORY "Userscripts"
+THIS REPO WILL EVENTUALLY BE REMOVED
